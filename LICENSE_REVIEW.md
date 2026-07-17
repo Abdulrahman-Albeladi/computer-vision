@@ -1,20 +1,8 @@
-# License review required
+# License and ownership review
 
-A license file has not been added automatically.
+This repository uses an all-rights-reserved portfolio license. It is not open source.
 
-## Reason
-
-Repository planning materials indicate possible course-derived and group-derived content. Ownership and redistribution terms are not yet clear enough to select a public license safely.
-
-## Review before adding a license
-
-Confirm all of the following:
-- the repository contains only material that may be publicly redistributed
-- collaborator ownership and attribution obligations are documented
-- no course starter code, assignment text, autograder files, or instructor-owned material remain
-- any third-party code or assets are identified with their original licenses
-
-## Outcome options
-
-- If publication is not approved, keep the repository private and do not add a public license.
-- If publication is approved, choose a license only after ownership and dependency review are complete.
+Before making the repository public, confirm redistribution rights for every retained
+file, including course scaffolding, starter code, collaborator contributions,
+datasets, images, and other assets. Remove or replace anything whose ownership or
+redistribution terms are uncertain.

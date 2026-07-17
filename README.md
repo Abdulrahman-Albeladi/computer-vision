@@ -97,3 +97,25 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`SECURITY.md`](SECURITY.md) for re
 | `copy-of-chris-cmsc426-project4` | `copy-of-chris-cmsc426-project4.ipynb` | Preserved copy-named notebook artifact; execution not documented. |
 
 For per-project notes, see the project index below.
+
+<!-- portfolio-public-release-license:start -->
+
+## License and public-release status
+
+This repository is published under an all-rights-reserved
+portfolio license. Viewing the repository does not grant permission to reuse its code,
+documentation, datasets, or assets. Third-party and collaborator materials retain
+their original rights.
+
+Before changing visibility from private to public, the owner must complete the
+ownership checklist in `LICENSE_REVIEW.md`.
+
+<!-- portfolio-public-release-license:end -->
+
+<!-- release-license:start -->
+
+## License and public-release status
+
+This repository uses an all-rights-reserved portfolio license. Review `LICENSE_REVIEW.md` and `THIRD_PARTY_NOTICES.md` before changing visibility to public.
+
+<!-- release-license:end -->
