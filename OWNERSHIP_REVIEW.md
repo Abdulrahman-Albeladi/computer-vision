@@ -1,22 +1,15 @@
-# Ownership and public-release review
+# Ownership and publication attestation
 
-**Current status: PRIVATE ONLY**
+The repository owner supplied these human confirmations. Automation did not infer them.
 
-Notebook ownership, collaborator permission, and attribution remain unresolved.
-
-## General checks
-
-- [ ] I own the retained work or have permission to publish it.
-- [ ] Course starter code and instructor material are removed or redistributable.
-- [ ] Collaborator contributions are attributed and approved.
-- [ ] Datasets, images, PDFs, and other assets may be redistributed.
-- [ ] README claims match actual build and test evidence.
-- [ ] I inspected the complete Git history, not only the working tree.
-
-## Repository-specific checks
-
-- [ ] Confirm ownership of notebooks whose names reference other people.
-- [ ] Obtain collaborator permission where applicable.
-- [ ] Add accurate attribution or remove uncertain notebooks.
-
-This checklist requires a human decision. Automation cannot establish ownership.
+```yaml
+attested_by: Abdulrahman Albeladi
+attestation_date_utc: 2026-07-17
+repository: computer-vision-reconstructions
+confirmations:
+  i_own_or_have_permission_for_every_published_file: true
+  course_or_institution_rules_allow_publication: true
+  people_named_in_notebook_filenames_or_content_approved_or_were_removed: true
+  collaborator_authorship_and_attribution_are_accurate: true
+  i_understand_public_visibility_is_irreversible_by_others_forking: true
+```
