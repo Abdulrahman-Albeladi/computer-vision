@@ -1,5 +1,12 @@
 # computer-vision-reconstructions
 
+<!-- coursework-portfolio-notice:start -->
+> [!NOTE]
+> **Archived college-work portfolio snapshot.** This repository documents coursework, reconstructed assignments, experiments, and skills developed during university. It is provided for portfolio and educational reference, not as maintained production software. Some projects may require historical dependencies, datasets, SDKs, or manual setup and may not build unchanged on current toolchains.
+>
+> **Known limitation:** Some reconstructed notebooks may require historical datasets, package versions, or manual path configuration.
+<!-- coursework-portfolio-notice:end -->
+
 This repository preserves publish-eligible computer-vision course and research notebook artifacts recovered from CMSC426-related materials. The repository is organized as independent project directories, with original notebook filenames retained for provenance.
 
 The recovered materials are notebook-based. They have not been represented as a unified software package, and no claim is made that they execute unchanged in a current environment.
