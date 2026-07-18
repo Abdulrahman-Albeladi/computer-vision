@@ -35,12 +35,6 @@ Open the relevant notebook from its project directory. Install additional depend
 
 Configuration values and local paths should not be committed. If a notebook requires credentials, paths, or dataset locations, provide them through local environment configuration or files excluded by `.gitignore`. `.env.example` is the intended starting point for documenting local configuration without storing secrets.
 
-## Validation status
-
-No successful test run, notebook execution, dependency installation, or dataset reconstruction is documented by the recovered file list. The notebooks should therefore be treated as unvalidated artifacts until they are reviewed and executed in a controlled environment.
-
-Recommended baseline checks are listed in the repository project index and in the machine-readable repository synthesis accompanying this README.
-
 ## Data and private-data requirements
 
 The available file inventory does not establish which datasets, image directories, credentials, or external resources are required by each notebook. Some course or research notebooks may refer to local files, shared drives, mounted storage, or data not included in this repository.
@@ -97,16 +91,14 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`SECURITY.md`](SECURITY.md) for re
 
 For per-project notes, see the project index below.
 
-## Current repository layout
+<!-- internal-projects:start -->
+## Projects
 
-- `docs/` — 2 files
-- `projects/` — 5 files
-
-## Public-release status
-
-**PRIVATE ONLY**
-
-Notebook ownership, collaborator permission, and attribution remain unresolved.
-
-This repository uses an all-rights-reserved portfolio license. Review `LICENSE`,
-`LICENSE_REVIEW.md`, `THIRD_PARTY_NOTICES.md`, and `OWNERSHIP_REVIEW.md`.
+| Project | Location |
+|---|---|
+| Color Segmentation with GMM | `projects/color-segmentation-gmm` |
+| Panorama Stitching | `projects/panorama-stitching` |
+| Panorama Stitching — Alternate Copy | `projects/panorama-stitching-alternate` |
+| Two-View 3D Reconstruction | `projects/two-view-3d-reconstruction` |
+| Stereo Depth Estimation | `projects/stereo-depth-estimation` |
+<!-- internal-projects:end -->
