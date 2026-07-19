@@ -1,39 +1,19 @@
-# Ownership and attribution review
+Attribution and Ownership
 
-This repository is a private staging area for possible independent reconstructions of computer-vision projects.
+Scope
+- This repository contains original implementations of classical computer-vision pipelines prepared for portfolio review. Assignment text, grading details, autograder material, and instructor-provided code have been removed or kept private.
 
-## Current constraints
+Collaborator credit
+- Some work was initially developed in a small course team. Personal identifiers (names, UIDs) are omitted from public notebooks for privacy. High-level collaborator credit is acknowledged here without publishing student IDs. If a reviewer needs more detail, it can be provided privately upon request.
 
-Verified from repository planning materials:
-- prior materials include group notebooks that require collaborator attribution review
-- publication permission must be settled before any public release of group-derived work
-- student identifiers and any credentials must be removed from notebooks and history
-- raw course notebooks present academic-integrity risk and should not be published as-is
+Inspiration and sources
+- Project themes and algorithms are inspired by standard computer-vision coursework and references (e.g., corner detectors, ANMS, homographies with RANSAC, 8-point F, E and pose extraction, linear triangulation). The write-ups and code here are my own unless otherwise noted.
 
-## Required review before publication
+Third-party materials and datasets
+- Example images and datasets are not redistributed. Users should obtain public samples independently and place them under the indicated data/ directories. Any third-party materials used retain their original rights and terms.
 
-For each planned subproject, document:
-- whether the implementation is fully independent or derived from prior coursework
-- whether any collaborators contributed to the original work
-- whether publication permission has been obtained where required
-- whether any starter code, assignment text, autograder material, or instructor tests were involved
-- whether any datasets contain private, restricted, or course-provided content
+Private/in-progress material
+- A stereo depth estimation notebook that depended on course-provided starter code has been moved to a private repository pending licensing/attribution review and removal of Colab/shell-only steps. It will be reconsidered for public release after refactoring.
 
-## Recommended decision record template
-
-Use one section per subproject.
-
-### Subproject: `<name>`
-- Status: `not reviewed | blocked | approved for private use | approved for publication`
-- Independent reconstruction: `yes | no | partial | unknown`
-- Original context: `<course / personal / research / other>`
-- Collaborators to credit: `<fill manually>`
-- Publication permission confirmed: `yes | no | unknown`
-- Starter code or assignment-derived material present: `yes | no | unknown`
-- Restricted data present: `yes | no | unknown`
-- Required actions before release:
-  - `<fill manually>`
-
-## Publication rule
-
-If collaborator attribution, ownership, or publication permission is unresolved for any subproject, keep that material private.
+License
+- See LICENSE for terms. Third-party, collaborator-authored, and dataset materials retain their original rights and are not re-licensed here.
